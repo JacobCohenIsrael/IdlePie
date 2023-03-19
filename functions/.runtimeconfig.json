@@ -1,0 +1,1 @@
+{"db":{"mongo_uri":"mongodb://localhost:27017,localhost:27018,localhost:27019?retryWrites=true&replicaSet=rs","config_db_name":"configs_1_0_0","app_db_name":"app"}}
